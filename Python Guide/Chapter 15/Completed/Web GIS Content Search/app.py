@@ -1,3 +1,7 @@
+#=======================
+# Copyright 2025 Esri
+#=======================
+
 import os
 import sys
 import urllib.parse

@@ -1,3 +1,7 @@
+#=======================
+# Copyright 2025 Esri
+#=======================
+
 from contextlib import redirect_stdout
 from io import StringIO
 

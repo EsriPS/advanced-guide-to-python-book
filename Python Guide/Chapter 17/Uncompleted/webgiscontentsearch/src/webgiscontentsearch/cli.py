@@ -1,3 +1,7 @@
+#=======================
+# Copyright 2025 Esri
+#=======================
+
 import argparse
 from datetime import datetime
 from arcgis.gis import GIS

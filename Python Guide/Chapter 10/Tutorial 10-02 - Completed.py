@@ -1,3 +1,7 @@
+#=======================
+# Copyright 2025 Esri
+#=======================
+
 def zip_county_highways(full_fc_path, output_folder, county):
     '''
     This function creates a zip file containing a file geodatabase with 

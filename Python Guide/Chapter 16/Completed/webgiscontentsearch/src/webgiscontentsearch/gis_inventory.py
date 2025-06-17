@@ -1,3 +1,7 @@
+#=======================
+# Copyright 2025 Esri
+#=======================
+
 from arcgis.gis import GIS
 import datetime
 import pandas as pd

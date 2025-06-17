@@ -37,4 +37,4 @@ Find a bug or want to request a new feature?  Please let us know by [email](mail
 
 Copyright 2025 Esri
 
-[Data License Agreement](https://www.arcgis.com/sharing/rest/content/items/e15c011c112040119bf1eb137884a232/data)
+[Data License Agreement](LICENSE.pdf)
