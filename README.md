@@ -30,7 +30,7 @@ Here are some things you will need
 
 ## Issues and Contributing
 
-Find a bug or want to request a new feature?  Please let us know by submitting an issue.
+Find a bug or want to request a new feature?  Please let us know by [email](mailto:esri_press_learn@esri.com)
 
 
 ## Licensing
